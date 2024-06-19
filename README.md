@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm Brayan, a student pursuing a degree in Software and Computer Systems Engineering at Universidad La Salle Oaxaca. With a keen interest in backend development.
 <div align="center">
-  <img src="[https://moewalls.com/pixel-art/lofi-girl-reading-book-while-its-raining-outside-pixel-live-wallpaper/' target='_blank'><img src='https://moewalls.com/wp-content/uploads/2022/08/lofi-girl-reading-book-while-its-raining-outside-pixel-thumb-728x410.jpg' title='Lofi Girl Reading Book While It’s Raining Outside Pixel Live Wallpaper](https://static.moewalls.com/videos/preview/2022/lofi-girl-reading-book-while-its-raining-outside-pixel-preview.mp4)"/>
+  <img src="https://static.moewalls.com/videos/preview/2022/lofi-girl-reading-book-while-its-raining-outside-pixel-preview.mp4"/>
 </div>
 
 <div align="center">
