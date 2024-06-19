@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hi there! I'm Brayan, a student pursuing a degree in Software and Computer Systems Engineering at Universidad La Salle Oaxaca. With a keen interest in backend development.
-<div align="center">
-  <img src="https://static.moewalls.com/videos/preview/2022/lofi-girl-reading-book-while-its-raining-outside-pixel-preview.mp4"/>
-</div>
+
+
+
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
