@@ -1,6 +1,11 @@
 # 💫 About Me:
 👋 Hi there! I'm Brayan, a student pursuing a degree in Software and Computer Systems Engineering at Universidad La Salle Oaxaca. With a keen interest in backend development.
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+
 
 ## 🌐 Socials:
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
