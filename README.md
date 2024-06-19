@@ -28,7 +28,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Brashan7u7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 ### Spotify Playing 🎧
 
