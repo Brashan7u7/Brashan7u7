@@ -4,7 +4,6 @@
 <h3>👋 Hi there! I'm Brayan, a student pursuing a degree in Software and Computer Systems Engineering at Universidad La Salle Oaxaca. <br/><h3/>
 <div align="right"> <h3>🕵️ With a keen interest in backend development.<h3/></div>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/Brashan7u7/Brashan7u7/main/assets/buttonsmetal-baby.gif">
 </div>
 
 # 💻 Tech Stack:
